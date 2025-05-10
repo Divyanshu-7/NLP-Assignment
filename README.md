@@ -1,6 +1,6 @@
 # Name - Divyanshu Solanki, Reg. No. - RA2211027010107, Section - AE-1
 
-# Real-Time QoS Management for Game Streaming Using Sentiment Analysis and DNN
+# Real-Time Management for Game Streaming
 
 ## Overview
 
